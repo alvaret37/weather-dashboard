@@ -25,5 +25,5 @@ python app/main.py
 Informações básicas do clima para a cidade solicitada serão exibidas no terminal.
 
 ## 🧑‍💻 Feito por [alvaret37](https://github.com/alvaret37)  
-📧 alvaret.dev@gmail.com  
+📧 alvaro.emmanoel@gmail.com  
 (Dashboard com visualização de dados dinâmicos.)
